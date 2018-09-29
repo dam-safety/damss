@@ -1,12 +1,14 @@
 @import './hero.css';
 @import './navbar.css';
 @import './map.css';
+@import './story.css';
 
 body {
   --lt-grey: #d6d6d6;
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  color: white;
 }
 
 .App {
